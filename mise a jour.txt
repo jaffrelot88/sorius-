@@ -1,1 +1,4 @@
+<Version:  1.05>
+\data\sorius.zip  
+<End of Version>
 
